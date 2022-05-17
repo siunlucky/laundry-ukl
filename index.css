@@ -1,0 +1,18 @@
+body {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl3aWh4YKQTtKaGsv2pQD_8dk8N9gV-EsMIw&usqp=CAU");
+}
+.container {
+    background-color: black;
+}
+.warp {
+   background-color: #FFFFFF; 
+}
+.bg {
+    background-image: url("img_girl.jpg");
+  
+    height: 100%;
+  
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
